@@ -1,1 +1,1 @@
-![skills]([https://github.com/Raimo33/Raimo33/tree/main/assets/skills.png](https://github.com/Raimo33/Raimo33/blob/main/assets/skills.png?raw=true)https://github.com/Raimo33/Raimo33/blob/main/assets/skills.png?raw=true)
+[skills](https://github.com/Raimo33/Raimo33/blob/main/assets/skills.png?raw=true)
