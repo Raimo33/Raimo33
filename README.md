@@ -4,4 +4,5 @@
 
 ## Blockchain DEV Roadmap
 
-[https://roadmap.sh/blockchain](https://roadmap.sh/blockchain?s=65958022ae22c1252318c4d6)https://roadmap.sh/blockchain?s=65958022ae22c1252318c4d6
+![image](https://github.com/Raimo33/Raimo33/assets/104778891/fbe20f64-e402-488a-8a98-bad230c0042d)
+
