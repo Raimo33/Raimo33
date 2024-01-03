@@ -1,3 +1,3 @@
-## HELLO THERE
+## HELLO WORLD
 
 ![skills](https://github.com/Raimo33/Raimo33/blob/main/assets/skills.png?raw=true)
