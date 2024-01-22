@@ -1,6 +1,6 @@
 ## HELLO WORLD
 
-![skills](https://github.com/Raimo33/Raimo33/blob/main/assets/skills.png?raw=true)
+![Skills](https://github.com/Raimo33/Raimo33/assets/104778891/d3aed0d3-a399-4b23-af2b-74b7c7d40070)
 
 ## DEV Areas of Intrest
 
