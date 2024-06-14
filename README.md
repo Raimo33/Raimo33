@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### **Hot take on AI**
->_even if the success of AI implies the end of human race, it could be the only way that something artificial such as the concept of our own past existence would reach an alien civilization one day. in other words the price to >pay for being noticed by an alien civilization might be our own extinction._
+>_even if the success of AI implies the end of human race, it could be the only way that something artificial such as the concept of our own past existence would reach an alien civilization one day. in other words the price to pay for being noticed by an alien civilization might be our own extinction._
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raimo33&icon=5&color=11)](https://visitcount.itsvg.in)
