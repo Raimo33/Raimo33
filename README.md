@@ -7,7 +7,7 @@
 🔌 **Would love to get my hands back on Arduino**
 
 # 💻 **Tech Stack:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,solidity,arduino,redis,mysql,postgres,elasticsearch,postman,linux,vscode)](https://skillicons.dev)
 
 # 📊 **GitHub Stats:**
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raimo33&theme=dark&hide_border=true)  
