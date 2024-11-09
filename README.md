@@ -1,5 +1,5 @@
 # 💫 **About Me:**
-🛠️ **Currently learning OOP via Ruby, C++ and Java  
+🛠️ **Currently learning OOP via Ruby, C++ and Java** 
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
 🔧 **Interested in back-end, low-level programming**  
