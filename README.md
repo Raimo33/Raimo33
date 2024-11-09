@@ -1,10 +1,11 @@
 # 💫 **About Me:**
-🛠️ **Currently learning OOP via C++**  
+🛠️ **Currently learning OOP via Ruby, C++ and Java  
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
 🔧 **Interested in back-end, low-level programming**  
 🚀 **All in on crypto**  
 🔌 **Would love to get my hands back on Arduino**
+🤮 **Hate parsing...**
 
 # 💻 **Tech Stack:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,solidity,arduino,redis,mysql,postgres,elasticsearch,postman,linux,vscode)](https://skillicons.dev)
