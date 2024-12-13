@@ -1,5 +1,5 @@
 # 💫 **About Me:**
-🛠️ **Currently learning OOP via C++ and Java**  
+🛠️ **Currently learning RISC-V Assembly**  
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
 🔧 **Interested in back-end, low-level programming**  
