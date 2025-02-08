@@ -1,5 +1,5 @@
 # 💫 **About Me:**
-🛠️ **Currently learning RISC-V Assembly**  
+🛠️ **Currently learning RISC-V Assembly, SIMD, SWAR**  
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
 🔧 **Interested in back-end, low-level programming**  
