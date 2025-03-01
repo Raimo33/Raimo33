@@ -3,8 +3,8 @@
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
 🔧 **Interested in back-end, low-level programming**  
-🚀 **All in on crypto**  
-🔌 **Would love to get my hands back on Arduino**  
+🚀 **All in on Bitcoin**
+📈 **Specializing in Algorithmic Trading**  
 🤮 **Hate parsing...**
 
 # 💻 **Tech Stack:**
