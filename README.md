@@ -8,7 +8,7 @@
 🤮 **Hate parsing...**
 
 # 💻 **Tech Stack:**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,solidity,arduino,redis,mysql,postgres,elasticsearch,postman,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,arduino,redis,mysql,postgres,linux,vscode)](https://skillicons.dev)
 
 # 📊 **GitHub Stats:** 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimo33&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
