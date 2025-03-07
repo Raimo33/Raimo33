@@ -2,10 +2,9 @@
 🛠️ **Currently learning RISC-V Assembly, SIMD, SWAR**  
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
-🔧 **Interested in back-end, low-level programming**  
+🔧 **Interested in low-level programming**  
 🚀 **All in on Bitcoin**  
-📈 **Specializing in Algorithmic Trading**  
-🤮 **Hate parsing...**
+📈 **Specializing in High Frequency Trading**
 
 # 💻 **Tech Stack:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,arduino,redis,mysql,postgres,linux,vscode)](https://skillicons.dev)
