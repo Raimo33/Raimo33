@@ -4,7 +4,7 @@
 🧠 **Fascinated by Deep Learning**[!](https://udlbook.github.io/udlbook/)  
 🔧 **Interested in low-level programming**  
 🚀 **All in on Bitcoin**  
-📈 **Specializing in High Frequency Trading**
+📈 **Specializing in low latency HFT systems**
 
 # 💻 **Tech Stack:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,arduino,redis,mysql,postgres,linux,vscode)](https://skillicons.dev)
