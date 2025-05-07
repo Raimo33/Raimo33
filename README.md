@@ -1,8 +1,8 @@
 # 💫 **About Me:**
 🛠️ **Currently learning RISC-V Assembly, SIMD, SWAR**  
 💻 **Proficient in vanilla C**  
-🧠 **Fascinated by Deep Learning** 
-🚀 **Obsession for optimization**
+🧠 **Fascinated by Deep Learning**  
+🚀 **Obsession for optimization**  
 
 # 💻 **Tech Stack:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,arduino,redis,mysql,postgres,linux,vscode)](https://skillicons.dev)
