@@ -1,4 +1,4 @@
-# 💫 **About Me:**
+# 🤌 **About Me:**
 🛠️ **Currently learning RISC-V Assembly, SIMD, SWAR**  
 💻 **Proficient in vanilla C**  
 🧠 **Fascinated by Deep Learning**  
