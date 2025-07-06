@@ -1,7 +1,14 @@
 # 🤌 **About Me:**
 💻 **Proficient in vanilla C**  
+🚀 **Obsessed by optimization**  
+🎯 **Perfectionist**  
+🐋 **Docker expert**  
+🧡 **Bitcoin maximalist**  
+🕵️ **Privacy advocate**  
+🧩 **Open Source contributor**  
+🐧 **Linux user**  
 🧠 **Fascinated by Deep Learning**  
-🚀 **Obsession for optimization**  
+  
 
 # 💻 **Tech Stack:**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,git,bash,nginx,java,python,ruby,arduino,redis,mysql,postgres,linux,vscode)](https://skillicons.dev)
