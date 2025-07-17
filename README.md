@@ -1,5 +1,7 @@
 # 🤌 **About Me:**
+🪪 **Born in 2004**. 
 💻 **Proficient in vanilla C**  
+🔢 **Mastering SIMD**. 
 🚀 **Obsessed by optimization**  
 🎯 **Perfectionist**  
 🐋 **Docker expert**  
